@@ -31,10 +31,9 @@
       "react-app/jest"
     ]
   },
-  "browserslist": {
-    "production": [
+  "browserslist": [
       "defaults",
       "not ie 11"
     ]
-  }
+  
 }
