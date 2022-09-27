@@ -1,4 +1,4 @@
-import { Cancel, Room } from "@material-ui/icons";
+import { Cancel, Room } from "@mui/icons-material";
 import axios from "axios";
 import { useRef, useState } from "react";
 import "./login.css";
