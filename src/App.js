@@ -1,6 +1,6 @@
 import * as React from 'react';
 import Map, {Marker, Popup} from 'react-map-gl';
-import {Room, Star} from "@material-ui/icons"
+import {Room, Star} from "@mui/icons-material"
 import "./App.css";
 import axios from "axios";
 import Register from "./components/Register";
